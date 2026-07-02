@@ -806,4 +806,15 @@
     <string name="library_top_mixes_no_recent_history">Dengarkan lagu lainnya, kemudian segarkan untuk membuat mix AI dari riwayat mendengarkan anda.</string>
     <string name="library_top_mixes_failed">Gagal membuat mix teratas</string>
     <string name="playing_desc">Sedang memutar</string>
+    <string name="library_top_mixes_no_valid_mixes">AI did not return any playable mixes from your recent history.</string>
+    <string name="sort_a_to_z">A → Z</string>
+    <string name="sort_z_to_a">Z → A</string>
+    <string name="tracks_label">trek</string>
+    <string name="song_singular">Lagu</string>
+    <string name="more_playlists_desc">Daftar Putar lainnya</string>
+    <string name="more_label">Lainnya</string>
+    <string name="tracks_count_label">Jumlah trek</string>
+    <string name="recently_updated">Baru saja diperbarui</string>
+    <string name="custom_order">Urutan kustom</string>
+    <string name="list_view">Tampilan daftar</string>
 </resources>
