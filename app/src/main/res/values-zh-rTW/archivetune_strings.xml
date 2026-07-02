@@ -178,4 +178,21 @@
     <string name="share_lyrics">分享歌詞</string>
     <string name="share_as_text">以文字形式分享</string>
     <string name="share_as_image">以圖像形式分享</string>
+    <string name="max_selection_limit">最大選擇數量限制</string>
+    <string name="share_selected">分享所選內容</string>
+    <string name="customize_colors">自訂顏色</string>
+    <string name="lyrics_share_layout">佈局</string>
+    <string name="lyrics_share_layout_square">方形</string>
+    <string name="lyrics_share_layout_portrait">直式</string>
+    <string name="lyrics_share_layout_story">限時動態</string>
+    <string name="lyrics_share_resolution_value">%1$d x %2$d</string>
+    <string name="lyrics_share_background_blur">背景模糊</string>
+    <string name="lyrics_share_background_blur_value">%1$d px</string>
+    <string name="lyrics_line_blur">模糊歌詞</string>
+    <string name="lyrics_share_background_dim">背景調暗</string>
+    <string name="lyrics_share_background_dim_value">%1$d%%</string>
+    <string name="lyrics_share_show_cover">顯示專輯封面</string>
+    <string name="lyrics_share_show_cover_desc">分享圖片包含專輯封面。</string>
+    <string name="lyrics_share_style_album_tint">專輯色調</string>
+    <string name="lyrics_share_style_frosted_dark">深色毛玻璃</string>
 </resources>
