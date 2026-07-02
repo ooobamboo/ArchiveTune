@@ -4,7 +4,7 @@
     <string name="songs">Lieder</string>
     <string name="artists">Künstler</string>
     <string name="albums">Alben</string>
-    <string name="playlists">Wiedergabelisten</string>
+    <string name="playlists">Playlisten</string>
     <plurals name="n_selected">
         <item quantity="one">%d ausgewählt</item>
         <item quantity="other">%d ausgewählt</item>
@@ -36,7 +36,7 @@
     <string name="filter_videos">Videos</string>
     <string name="filter_albums">Alben</string>
     <string name="filter_artists">Künstler</string>
-    <string name="filter_playlists">Wiedergabelisten</string>
+    <string name="filter_playlists">Playlisten</string>
     <string name="filter_community_playlists">Community-Playlists</string>
     <string name="filter_featured_playlists">Empfohlene Playlists</string>
     <string name="no_results_found">Keine Ergebnisse gefunden</string>
@@ -99,7 +99,7 @@
     <string name="save">Speichern</string>
     <string name="edit_playlist">Playlist bearbeiten</string>
     <string name="create_playlist">Playlist erstellen</string>
-    <string name="playlist_name">Name der Wiedergabeliste</string>
+    <string name="playlist_name">Name der Playlist</string>
     <string name="artist_name">Künstlername</string>
     <string name="duplicates">Duplikate</string>
     <string name="skip_duplicates">Überspringen Sie Duplikate</string>
@@ -119,8 +119,8 @@
         <item quantity="other">%d Alben</item>
     </plurals>
     <plurals name="n_playlist">
-        <item quantity="one">%d Wiedergabeliste</item>
-        <item quantity="other">%d Wiedergabelisten</item>
+        <item quantity="one">%d Playlist</item>
+        <item quantity="other">%d Playlisten</item>
     </plurals>
     <plurals name="n_week">
         <item quantity="one">%d Woche</item>
@@ -475,7 +475,7 @@
     <string name="playing_desc">Spielt</string>
     <string name="tracks_label">Titel</string>
     <string name="song_singular">Song</string>
-    <string name="more_playlists_desc">Weitere Wiedergabelisten</string>
+    <string name="more_playlists_desc">Weitere Playlisten</string>
     <string name="more_label">Mehr</string>
     <string name="tracks_count_label">Titelanzahl</string>
     <string name="recently_updated">Kürzlich aktualisiert</string>
@@ -759,4 +759,39 @@
     <string name="onboarding_welcome_title">Willkommen bei ArchiveTune</string>
     <string name="onboarding_permission_unavailable">Nicht verfügbar</string>
     <string name="onboarding_permission_network_title">Netzwerkzugriff</string>
+    <string name="onboarding_empty_subtitle">Fortfahren zu ArchiveTune.</string>
+    <string name="onboarding_permission_notifications_title">Benachrichtigungen</string>
+    <string name="library_top_mixes_refresh">Mixe aktualisieren</string>
+    <string name="library_top_mixes_ai_not_configured_title">Konfiguriere KI, um Mixe zu erstellen</string>
+    <string name="library_top_mixes_ai_not_configured_desc">KI-Integration wird benötigt, bevor ArchiveTune persönliche Mixe erstellen kann.</string>
+    <string name="library_top_mixes_no_valid_mixes">Die KI hat keine spielbaren Mixe aus deinem aktuellen Verlauf zurückgegeben.</string>
+    <string name="library_top_mixes_failed">Erstellung der Top-Mixe fehlgeschlagen</string>
+    <string name="your_playlists">Deine Playlisten</string>
+    <string name="see_all">Alle anzeigen</string>
+    <string name="grid_view">Rasteransicht</string>
+    <string name="no_artist_yet">Keine Künstler bisher</string>
+    <string name="total_label">gesamt</string>
+    <string name="play_time">Wiedergabezeit</string>
+    <string name="subscribed_only">Nur abonniert</string>
+    <string name="all_artists_filter">Alle Künstler</string>
+    <string name="artist_subtitle">Künstler</string>
+    <string name="recently_played_artists">Kürzlich gespielte Künstler</string>
+    <string name="newest_year">Neustes Jahr</string>
+    <string name="oldest_year">Ältestes Jahr</string>
+    <string name="longest_duration">Längste Dauer</string>
+    <string name="shortest_duration">Kürzeste Dauer</string>
+    <string name="year_sort">Jahr</string>
+    <string name="duration_sort">Dauer</string>
+    <string name="cast">Übertragen</string>
+    <string name="cast_sheet_subtitle">Wähle, wo ArchiveTune spielen soll</string>
+    <string name="cast_available_devices">Verfügbare Geräte</string>
+    <string name="cast_searching_devices">Suche nach Geräten</string>
+    <string name="cast_no_devices">Keine Cast-Geräte gefunden</string>
+    <string name="cast_no_devices_desc">Stelle sicher, dass dein Gerät im selben Netzwerk ist.</string>
+    <string name="cast_connected_to">Verbunden mit %1$s</string>
+    <string name="cast_disconnect">Trennen</string>
+    <string name="cast_available_device">Verfügbares Gerät</string>
+    <string name="cast_available_device_count">Geräte gefunden: %1$d</string>
+    <string name="cast_route_picker_unavailable">Cast ist zur Zeit nicht verfügbar.</string>
+    <string name="widget_recommendations">Empfehlungen</string>
 </resources>
