@@ -754,4 +754,9 @@
     <string name="token_copied">Token in Zwischenablage kopiert</string>
     <string name="saved_accounts">Gespeicherte Konten</string>
     <string name="save_current_account">Aktuelles Konto speichern</string>
+    <string name="app_icon_default">Standard</string>
+    <string name="top_artist_badge">TOP KÜNSTLER</string>
+    <string name="onboarding_welcome_title">Willkommen bei ArchiveTune</string>
+    <string name="onboarding_permission_unavailable">Nicht verfügbar</string>
+    <string name="onboarding_permission_network_title">Netzwerkzugriff</string>
 </resources>
