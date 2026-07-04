@@ -853,4 +853,10 @@
     <string name="download_complete">ڈاؤنلوڈ مکمل</string>
     <string name="permissions_title">آرکائوٹیون کو بہترین کام کرنے کی اجازت دیں</string>
     <string name="permissions_subtitle">آپکی موسیقی کو وثوق سے انتظام کرنے اور بجانے کے لئے ہمیں کچھ اجازتیں چاہئیں۔ آپ ان کو کبھی بھی سسٹم کی تنظیمات میں سے بدل سکتے ہیں۔</string>
+    <string name="permission_storage_title">ذخیرہ کی رسائ</string>
+    <string name="permission_storage_desc">نشر کے لئے اپکی مقامی سمعی اور ڈاؤنلوڈ کردہ فائلوں کو پڑھنے کے لئے لازم۔</string>
+    <string name="permission_status_allowed">اجازت شدہ</string>
+    <string name="next">آگے</string>
+    <string name="allow">اجازت دیں</string>
+    <string name="onboarding_welcome_title">آرکاؤٹیون میں خوش آمدید</string>
 </resources>
