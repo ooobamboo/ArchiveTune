@@ -1020,4 +1020,25 @@
     <string name="unhide">Reexibir</string>
     <string name="source">Origem</string>
     <string name="enable_youlyplus_lyrics">Ativar letras do YouLyPlus</string>
+    <string name="app_icon_description">Escolha um ícone do launcher</string>
+    <string name="app_icon_default">Padrão</string>
+    <string name="app_icon_subtitle">Personalize o seu launcher</string>
+    <string name="app_icon_current">Ícone atual</string>
+    <string name="app_icon_available">Ícones disponíveis</string>
+    <string name="app_icon_builtin">Integrado no app</string>
+    <string name="app_icon_community">Ícone da comunidade</string>
+    <string name="app_icon_builtin_description">Ícone Original do ArchiveTune</string>
+    <string name="app_icon_identifier">ID %1$s</string>
+    <string name="app_icon_community_notice">Os ícones da comunidade são criados pelos usuários e podem mudar com o tempo.</string>
+    <plurals name="app_icon_count">
+        <item quantity="one">%d ícone</item>
+        <item quantity="many">%d ícones</item>
+        <item quantity="other">%d ícones</item>
+    </plurals>
+    <string name="app_icon_empty">Não há ícones do app disponíveis</string>
+    <string name="app_icon_load_failed">Não foi possível carregar os ícones do app</string>
+    <string name="app_icon_change_failed">Não consegui alterar o ícone do aplicativo</string>
+    <string name="force_high_refresh_rate">Forçar alta taxa de atualização</string>
+    <string name="max_supported_refresh_rate">Máxima suportada: %1$d Hz</string>
+    <string name="export">Exportar</string>
 </resources>
