@@ -561,4 +561,15 @@
     <string name="recently_played">Riprodotto di recente</string>
     <string name="top_mixes">Le migliori combinazioni per te</string>
     <string name="library_top_mixes_loading">Preparando i tuoi Mixes AI</string>
+    <string name="on_device">Sul dispositivo</string>
+    <string name="library_top_mixes_refresh">Ricarico Mix</string>
+    <string name="library_top_mixes_configure_ai">Configura AI</string>
+    <string name="library_top_mixes_ai_not_configured_title">Configura l\'AI per creare mix</string>
+    <string name="library_top_mixes_ai_not_configured_desc">L\'integrazione AI è richiesta prima, così che ArchiveTune possa creare personali mix in base ai tuoi gusti</string>
+    <string name="library_top_mixes_no_recent_history_title">Nessun mix ascoltato di recente</string>
+    <string name="library_top_mixes_no_recent_history">Ascolta ancora altre canzoni così che l\'AI possa creare dei mix in base ai tuoi recenti ascolti</string>
+    <string name="your_playlists">Le tue Playlist</string>
+    <string name="see_all">Mostra tutto</string>
+    <string name="your_artists">I tuoi artisti</string>
+    <string name="all_songs">Tutte le canzoni</string>
 </resources>
