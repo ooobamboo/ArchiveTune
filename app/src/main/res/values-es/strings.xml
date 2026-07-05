@@ -895,13 +895,13 @@
     <string name="cast_available_devices">Dispositivos disponibles</string>
     <string name="cast_searching_devices">Buscando dispositivos</string>
     <string name="cast_no_devices">No sé encontraron dispositivos para transmitir</string>
-    <string name="cast_no_devices_desc">Verifica que tus dispositivos estén en la misma red Wi-Fi.</string>
+    <string name="cast_no_devices_desc">Asegúrate de que tu dispositivo esté conectado a la misma red Wi-Fi.</string>
     <string name="cast_connected_to">Conectado a %1$s</string>
     <string name="cast_disconnect">Desconectado</string>
-    <string name="cast_available_device">Dimpositivos disponibles</string>
+    <string name="cast_available_device">Dispositivo disponible</string>
     <string name="cast_available_device_count">Dispositivo encontrado: %1$d</string>
-    <string name="cast_route_picker_unavailable">La transmisión no está disponible ahora.</string>
-    <string name="widget_insights_title">Visualización de Reproductor</string>
+    <string name="cast_route_picker_unavailable">La transmisión no está disponible en este momento.</string>
+    <string name="widget_insights_title">Estadísticas de escucha</string>
     <string name="widget_recommendations">Recomendaciones</string>
     <string name="widget_listening_time_minutes">%1$d min</string>
     <string name="widget_listening_time_hours_minutes">%1$d h %2$d min</string>
@@ -910,7 +910,7 @@
     <string name="no_playlists_yet">Sin listas de reproducción</string>
     <string name="hide_playlist">Ocultar lista de reproducción</string>
     <string name="unhide_playlist">Mostrar lista de reproducción</string>
-    <string name="show_hidden_playlists">Mostrar ocultos</string>
+    <string name="show_hidden_playlists">Mostrar contenido oculto</string>
     <string name="hide_playlist_confirm">¿Ocultar \"%1$s\" de la biblioteca?</string>
     <string name="together_transfer_host">Transferir host</string>
     <string name="together_approve">Aprobar</string>
@@ -920,7 +920,7 @@
     <string name="together_participant_left_notification">%1$s abandono la sala</string>
     <string name="together_unknown_participant">Alguien</string>
     <string name="lyrics_search_plain_badge">Sin formato</string>
-    <string name="lyrics_searching_providers">Buscanso proveedores</string>
+    <string name="lyrics_searching_providers">Buscando proveedores</string>
     <string name="lyrics_search_still_searching">Aún buscando</string>
     <string name="lyrics_search_results_count">%1$d resultados</string>
     <string name="unsupported_language">Idioma no soportado: %1$s</string>
