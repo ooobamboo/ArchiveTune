@@ -302,7 +302,7 @@
     <string name="backup_category_settings">Cài đặt của ứng dụng</string>
     <string name="backup_category_settings_desc">Giao diện, phát lại &amp; tùy chọn</string>
     <string name="backup_category_account">Chi tiết tài khoản</string>
-    <string name="backup_category_account_desc">Thông tin đăng nhập YouTube, Spotify, Last.fm, Discord và proxy</string>
+    <string name="backup_category_account_desc">Thông tin đăng nhập YouTube, Spotify, Last.fm, Libre.fm, Discord và proxy</string>
     <string name="login_success">Đăng nhập thành công</string>
     <string name="news">Tin tức từ Nhà phát triển</string>
     <string name="news_loading">Đang tải tin tức…</string>
@@ -356,7 +356,7 @@
     <string name="aod_customize_degree_value">%1$d°</string>
     <string name="aod_customize_percent_value">%1$d%%</string>
     <string name="aod_customize_sample_title">Midnight Archive</string>
-    <string name="aod_customize_sample_artist">Koiverse Ensemble</string>
+    <string name="aod_customize_sample_artist">moriee Ensemble</string>
     <string name="aod_customize_sample_album">Always On Sessions</string>
     <string name="aod_customize_sample_elapsed">1:24</string>
     <string name="aod_customize_sample_duration">3:48</string>
@@ -405,7 +405,7 @@
     <string name="settings_playback_subtitle">Hành vi âm thanh, chuyển bài và phát nền</string>
     <string name="settings_behavior_title">Hành vi</string>
     <string name="settings_behavior_subtitle">Lịch sử, mặc định và hành vi riêng tư</string>
-    <string name="settings_integration_subtitle">Discord, Last.fm và ListenBrainz</string>
+    <string name="settings_integration_subtitle">Discord, Last.fm, Libre.fm và ListenBrainz</string>
     <string name="settings_backup_restore_subtitle">Xuất và khôi phục dữ liệu ứng dụng cá nhân</string>
     <string name="settings_developer_options_title">Tùy chọn nhà phát triển</string>
     <string name="settings_developer_options_subtitle">Tính năng thử nghiệm và gỡ lỗi</string>
@@ -534,7 +534,7 @@
     <string name="lyrics_share_style_deep_blur">Mờ sâu</string>
     <string name="lyrics_share_style_vivid_glow">Phát sáng rực rỡ</string>
     <string name="about_lead_developer">Nhà phát triển chính</string>
-    <string name="about_archive_tune_team">Nhóm ArchiveTune</string>
+    <string name="about_archive_tune_team">Nhóm</string>
     <string name="about_respecter">Tôn kính</string>
     <string name="about_contributors">Người đóng góp</string>
     <string name="about_position_lead_dev">Hả?</string>
@@ -563,4 +563,11 @@
     <string name="top_albums">Album hàng đầu</string>
     <string name="about_position_developers">Nhà phát triển | Nhóm</string>
     <string name="about_position_yuki">Chỉ để Trang trí 😂 | Quản trị viên</string>
+    <string name="block_artist">Chặn nghệ sĩ</string>
+    <string name="unblock_artist">Bỏ chặn nghệ sĩ</string>
+    <string name="storage_clear_song_cache_progress">Đang xóa bộ nhớ đệm bài hát...%1$d%%</string>
+    <string name="storage_clear_downloads_progress">Đang xóa nhạc đã tải về...%1$d%%</string>
+    <string name="storage_clear_image_cache_progress">Đang xoá bộ nhớ đệm hình ảnh...%1$d%%</string>
+    <string name="storage_clear_canvas_cache_progress">Đang xoá bộ nhớ đệm Canvas...%1$d%%</string>
+    <string name="storage_cache_clear_warning">Giữ ArchiveTune mở khi bộ nhớ đệm đang xoá.</string>
 </resources>
