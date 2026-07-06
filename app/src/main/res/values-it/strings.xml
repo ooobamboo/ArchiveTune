@@ -40,7 +40,7 @@
     <string name="filter_featured_playlists">Playlist in primo piano</string>
     <string name="no_results_found">Nessun risultato trovato</string>
     <string name="other_versions">Ascolta anche</string>
-    <string name="liked_songs">Canzoni che mi sono piaciute</string>
+    <string name="liked_songs">Brani che ti piacciono</string>
     <string name="downloaded_songs">Canzoni scaricate</string>
     <string name="playlist_is_empty">La playlist è vuota</string>
     <string name="remove_download_playlist_confirm">Vuoi davvero rimuovere tutti i brani della playlist \"%s\" dall\'archivio brani scaricati?</string>
@@ -595,4 +595,23 @@
     <string name="grid_view">Griglia</string>
     <string name="personal_label">Personale</string>
     <string name="youtube_synced">Sincronizzato con Youtube</string>
+    <string name="options_label">Opzioni</string>
+    <string name="top_artist_badge">ARTISTA MIGLIORE</string>
+    <string name="no_artist_yet">Ancora nessun artista</string>
+    <string name="total_label">totale</string>
+    <string name="most_tracks">Più brani</string>
+    <string name="least_tracks">Meno brani</string>
+    <string name="play_time">Tempo di ascolto</string>
+    <string name="subscribed_only">Solo per iscritti</string>
+    <string name="all_artists_filter">Tutti gli artisti</string>
+    <string name="artist_subtitle">Artista</string>
+    <string name="recently_played_artists">Artisti ascoltati di recente</string>
+    <string name="newest_year">Anno più recente</string>
+    <string name="oldest_year">Anno meno recente</string>
+    <string name="longest_duration">Durata maggiore</string>
+    <string name="shortest_duration">Durata minore</string>
+    <string name="year_sort">Anno</string>
+    <string name="duration_sort">Durata</string>
+    <string name="featured_album_badge">ALBUM IN EVIDENZA</string>
+    <string name="cast">Cast</string>
 </resources>
