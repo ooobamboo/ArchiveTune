@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="home">Avaleht</string>
     <string name="songs">Lood</string>
@@ -275,4 +275,31 @@
     <string name="album_backdrop_desc">Kuva kunstiteos hägusa taustana mängijal</string>
     <string name="backdrop_blur_amount">Tausta hägustamise määr</string>
     <string name="backdrop_blur_amount_value">%1$d%%</string>
+    <string name="library_title">Sinu Muusikakogu</string>
+    <string name="library_subtitle">Sinu muusika, organiseeritud sinu jaoks</string>
+    <string name="library_songs_subtitle">Kõik sinu lood, organiseeritud sinu jaoks</string>
+    <string name="library_artists_subtitle">Kõik sinu artistid, ühes kohas</string>
+    <string name="library_albums_subtitle">Kõik sinu albumid, ilusasti organiseeritud</string>
+    <string name="most_played_badge">ENIM MÄNGITUD</string>
+    <string name="play_all">Mängi kõik</string>
+    <string name="offline_shortcut">Ilma internetita</string>
+    <string name="local_files">Lokaalsed failid</string>
+    <string name="downloaded_desc">Alla laaditud</string>
+    <string name="on_device">Seadmel</string>
+    <string name="recently_played">Hiljuti Mängitud</string>
+    <string name="see_all">Näita kõike</string>
+    <string name="your_artists">Sinu Artistid</string>
+    <string name="all_songs">Kõik Laulud</string>
+    <string name="newest_first">Uuemad enne</string>
+    <string name="oldest_first">Vanemad enne</string>
+    <string name="sort_a_to_z">A → Z</string>
+    <string name="sort_z_to_a">Z → A</string>
+    <string name="sort_artist">Artist</string>
+    <string name="most_played_sort">Enim mängitud</string>
+    <string name="recently_added">Hiljuti lisatud</string>
+    <string name="sort_descending">Järjesta kahanevalt</string>
+    <string name="sort_ascending">Järjesta kasvavalt</string>
+    <string name="more_label">Rohkem</string>
+    <string name="recently_updated">Viimati uuendatud</string>
+    <string name="cast_available_device_count">Leitud seadmed: %1$d</string>
 </resources>
