@@ -470,4 +470,15 @@
     <string name="ai_api_connected">API verbunden</string>
     <string name="ai_api_test_failed">API-Test fehlgeschlagen</string>
     <string name="ai_translation_menu">KI-Übersetzung</string>
+    <string name="suggestions">Vorschläge</string>
+    <string name="aod_shape_cookie_6">Keks 6</string>
+    <string name="aod_shape_cookie_9">Keks 9</string>
+    <string name="local_songs_scan_included_folders_title">Eingeschlossene Ordner</string>
+    <string name="playlist_sync_progress_step">%1$d/%2$d Songs</string>
+    <string name="lyrics_share_resolution_value">%1$d x %2$d</string>
+    <string name="playlist_sync_failed">Playlist-Synchronisation fehlgeschlagen: %1$s</string>
+    <string name="storage_location_free">%s frei</string>
+    <string name="storage_migration_cache_progress">Verschiebe Cache…%1$d%%</string>
+    <string name="storage_migration_downloads_progress">Verschiebe Downloads...%1$d%%</string>
+    <string name="storage_folder_invalid">Wähle einen gültigen Ordner.</string>
 </resources>
