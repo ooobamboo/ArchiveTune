@@ -24,7 +24,7 @@
     <string name="yesterday">Gestern</string>
     <string name="this_week">Diese Woche</string>
     <string name="last_week">Letzte Woche</string>
-    <string name="most_played_songs">Die meisten gespielten Lieder</string>
+    <string name="most_played_songs">Die meistgespielten Lieder</string>
     <string name="search">Suchen</string>
     <string name="search_yt_music">Durchsuche YouTube Music</string>
     <string name="search_library">Bibliothek durchsuchen</string>
@@ -45,7 +45,7 @@
     <string name="downloaded_songs">Heruntergeladene Lieder</string>
     <string name="playlist_is_empty">Die Playlist ist leer</string>
     <string name="remove_download_playlist_confirm">Möchten Sie wirklich alle \"%s\" Playlist-Lieder aus dem Speicher für heruntergeladene Songs entfernen?</string>
-    <string name="delete_playlist_confirm">Möchten Sie die Playlist \"%s\" wirklich löschen?</string>
+    <string name="delete_playlist_confirm">Möchtest du die Playliste \"%s\" wirklich löschen?</string>
     <string name="retry">Wiederholen</string>
     <string name="radio">Radio</string>
     <string name="shuffle">Shuffle</string>
@@ -237,7 +237,7 @@
     <string name="show_button">Schaltfläche anzeigen</string>
     <string name="corner_radius">Eckenradius: %1$d</string>
     <string name="adjust_radius">Eckenradius anpassen</string>
-    <string name="cancel_button">Stornieren</string>
+    <string name="cancel_button">Abbrechen</string>
     <string name="ok_button">OK</string>
     <string name="custom_radius">Passen Sie den Eckenradius der Miniaturansicht an</string>
     <string name="custom">Benutzerdefiniert</string>
@@ -382,7 +382,7 @@
     <string name="logout_confirm_title">Bestätigen Sie die Abmeldung</string>
     <string name="logout_confirm_message">Sind Sie sicher, dass Sie sich von Discord abmelden möchten?</string>
     <string name="logout_confirm_yes">Abmelden</string>
-    <string name="logout_confirm_no">Stornieren</string>
+    <string name="logout_confirm_no">Abbrechen</string>
     <string name="experiment_settings">Experimentelle Einstellungen</string>
     <string name="show_discord_debug_ui">Debug-Benutzeroberfläche anzeigen</string>
     <string name="enable_discord_debug_lines">Debug-Einstellungszeilen aktivieren</string>
@@ -440,7 +440,7 @@
     <string name="queue_autoplaying_similar">Ähnliche Musik automatisch abspielen</string>
     <string name="random_theme_on_startup">Zufälliges Theme beim start</string>
     <string name="random_theme_on_startup_desc">Wende eine zufällige Farbpalette bei jedem Appstart an</string>
-    <string name="music_recognition">Musik Erkennung</string>
+    <string name="music_recognition">Musikerkennung</string>
     <string name="removed_song_from_queue">\"%s\" aus der Warteschlange entfernen</string>
     <string name="speed_dial">Schnellwahl</string>
     <string name="top_results">Top-Ergebnisse</string>
@@ -458,8 +458,8 @@
     <string name="permanent_shuffle">Permanenter Shuffle-Modus</string>
     <string name="permanent_shuffle_desc">Lässt Schuffle aktiviert, wenn du einen neuen Song startest</string>
     <string name="library_title">Deine Bibliothek</string>
-    <string name="library_top_mixes_configure_ai">Konfiguriere KI</string>
-    <string name="library_albums_subtitle">Alle Alben, wundervoll organisiert</string>
+    <string name="library_top_mixes_configure_ai">KI konfigurieren</string>
+    <string name="library_albums_subtitle">Alle deine Alben, wundervoll organisiert</string>
     <string name="your_artists">Deine Künstler</string>
     <string name="all_songs">Alle Songs</string>
     <string name="newest_first">Neuste zuerst</string>
@@ -474,7 +474,7 @@
     <string name="your_collection">Deine Sammlung</string>
     <string name="playing_desc">Spielt</string>
     <string name="tracks_label">Titel</string>
-    <string name="song_singular">Song</string>
+    <string name="song_singular">Lied</string>
     <string name="more_playlists_desc">Weitere Playlisten</string>
     <string name="more_label">Mehr</string>
     <string name="tracks_count_label">Titelanzahl</string>
@@ -518,7 +518,7 @@
     <string name="stream_bypass_proxy">Proxy für Streams umgehen</string>
     <string name="stream_bypass_proxy_desc">Verwendt direkte IP-Adresse für die Stream-Wiedergabe, um eine IP-Diskrepanz zu vermeiden</string>
     <string name="remove_account">Konto entfernen</string>
-    <string name="most_played_badge">MEIST GESPIELT</string>
+    <string name="most_played_badge">MEISTGESPIELT</string>
     <string name="play_all">Spiele alle</string>
     <string name="offline_shortcut">Offline</string>
     <string name="local_files">Lokale Dateien</string>
