@@ -24,7 +24,7 @@
     <string name="allows_for_sync_witch_youtube">Hinweis: Dies ermöglicht die Synchronisierung mit YouTube Music. Dies ist später NICHT änderbar.</string>
     <string name="generating_image">Bild erzeugen</string>
     <string name="please_wait">Bitte warten</string>
-    <string name="cancel">Stornieren</string>
+    <string name="cancel">Abbrechen</string>
     <string name="share_lyrics">Songtexte teilen</string>
     <string name="share_as_text">Als Text teilen</string>
     <string name="share_as_image">Als Bild teilen</string>
@@ -481,4 +481,5 @@
     <string name="storage_migration_cache_progress">Verschiebe Cache…%1$d%%</string>
     <string name="storage_migration_downloads_progress">Verschiebe Downloads...%1$d%%</string>
     <string name="storage_folder_invalid">Wähle einen gültigen Ordner.</string>
+    <string name="storage_location_internal">Interner Speicher</string>
 </resources>
