@@ -912,4 +912,5 @@
     <string name="together_welcome_title">Willkommen zu ArchiveTune Music Zusammen</string>
     <string name="onboarding_permission_bluetooth_scan_title">Bluetooth-Scan</string>
     <string name="music_together">ArchiveTune Music Zusammen</string>
+    <string name="together_transfer_host">Host übertragen</string>
 </resources>
